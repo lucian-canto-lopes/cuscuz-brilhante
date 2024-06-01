@@ -1,3 +1,2 @@
-<<<<<<< HEAD
-dsfjaojdfoiwajihn
+# Branch para armazenar códigos em c
 
